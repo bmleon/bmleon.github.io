@@ -1,0 +1,31 @@
+Cuestionario Belén María León Fernández
+1.	¿Quién creo GML?
+-	Charles F. Goldfarb
+-	Tim Berners-Lee
+-	W3C
+-	Pepito grillo
+
+2.	¿Después de GML que fue lo que surgió?
+-	DTD
+-	Maradona
+-	HTML
+-	SGML
+
+3.	¿Qué invento Tim Berners-Lee?
+-	ASCII
+-	XML
+-	HTML
+-	Batidora
+
+4.	Elige un concepto de básico de SGML:
+-	Metalenguaje
+-	marcado descriptivo
+-	independencia de la plataforma
+-	Todas son validas
+
+5.	Características que no tenga XML
+-	Permitir definir etiquetas propias
+-	Permitir asignar atributos a las etiquetas
+-	Todas verdaderas
+-	Todas falsas
+-	Una verdadera y una falsa 

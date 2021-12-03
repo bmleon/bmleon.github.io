@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<horario>
+    <lunes>
+        programacion;
+        programacion;
+        lenguaje de marcas;
+        lenguaje de marcas;
+        base de datos;
+        base de datos
+    </lunes>
+    <martes>
+        entornos de desarrollo;
+        
+        programacion,
+        programacion
+    </martes>
+    <miercoles>
+        programacion,
+        prorgamacion,
+        base de datos,
+        base de datos,
+        
+    </miercoles>
+    <jueves>
+        entornos de desarrollo,
+        entornos de desarrollo,
+    </jueves>
+    <viernes>
+        base de datos,
+        base de datos,
+        lenguaje de marcas,
+        lenguaje de marcas,
+        programacion,
+        programacion
+    </viernes>
+</horario>
