@@ -1,0 +1,16 @@
+td.Programacion:hover{
+    color: greenyellow;
+}
+td.Entornos:hover{
+    color: orange;
+}td.Lenguajedemarcas:hover{
+    color: red;
+}td.Basededatos:hover{
+    color: yellow;
+}
+td.Sistemas:hover{
+    color: purple;
+}
+td.FOL:hover{
+    color: blue;
+}
