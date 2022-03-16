@@ -4,3 +4,20 @@ h1{
 p{
     text-align-last: center;
 }    
+#prueba1 {
+	display: inline;
+	width: 25%;
+	animation: myAnimation 2s ease 1s 8 alternate forwards;
+}
+#prueba2 {
+	display: inline;
+	width: 25%;
+	animation: direction 3s 1;
+}
+@keyframes myAnimation {
+	100%{
+		transform: translateX(100px);
+        animation-direction: alternate;
+    }
+}		
+
