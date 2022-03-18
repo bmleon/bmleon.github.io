@@ -13,14 +13,28 @@
   </head>
   <body>
     
-    <div class="container" style="background-color: #aaa">
-        <!--Contenido de la página-->
-        <h1>Las recetas de la abuela</h1>
-        <p>Recetario tradicional</p>
-        <button class="btn">Botón</button>
-        <!--clase btn-primary: botón primario-->
-        <button class="btn btn-primary">Botón primario</button>
-    </div>
+     <!--Añadimos un fondo al div para distinguirlo mejor-->
+     <div class="container" style="background-color: #aaa">
+      <!--Contenido de la página-->
+      <div class="row">
+      <!--La clase xs no hace falta ponerla porque es por defecto col-->
+          <div class="col" style="background-color: rgb(130, 167, 130)">
+              <p>Primera columna.</p>
+          </div>
+          <div class="col-sm" style="background-color: rgb(221, 221, 115)">
+              <p>Segunda columna</p>
+          </div>
+          <div class="col-md" style="background-color: rgb(149, 173, 226)">
+              <p>Tercera columna</p>
+          </div>
+          <div class="col-lg" style="background-color: rgb(241, 214, 189)">
+              <p>Cuarta columna</p>
+          </div>
+          <div class="col-xl" style="background-color: rgb(188, 235, 209)">
+              <p>Quinta columna</p>
+          </div>
+      </div>
+      </div>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
