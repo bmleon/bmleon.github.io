@@ -1,0 +1,14 @@
+img{
+    display: block;
+    filter: grayscale(1);
+    animation: myanimation 2s ease 1s 3 alternate forwards;
+}
+
+@keyframes myanimation {
+    25% {
+        transform: rotate(360deg);
+    }
+    100% {
+        transform: scale(2, 0.5);
+    }
+}

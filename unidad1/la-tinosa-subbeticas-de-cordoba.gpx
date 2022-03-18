@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Wikiloc - https://www.wikiloc.com" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Wikiloc - La Tiñosa (Subbéticas de Córdoba)</name>
+    <link href="https://www.wikiloc.com/hiking-trails/la-tinosa-subbeticas-de-cordoba-6878870">
+      <text>La Tiñosa (Subbéticas de Córdoba) on Wikiloc</text>
+    </link>
+    <time>2014-05-18T11:53:39Z</time>
+  </metadata>
+  <trk>
+    <name>La Tiñosa (Subbéticas de Córdoba)</name>
+    <cmt></cmt>
+    <desc></desc>
+    <trkseg>
+      <trkpt lat="37.395026" lon="-4.249880">
+        <ele>885.589</ele>
+        <time>2014-05-18T07:51:58Z</time>
+      </trkpt>
+      <trkpt lat="37.394699" lon="-4.250074">
+        <ele>895.606</ele>
+        <time>2014-05-18T07:52:49Z</time>
+      </trkpt>
+              
+    </trkseg>
+  </trk></gpx>
