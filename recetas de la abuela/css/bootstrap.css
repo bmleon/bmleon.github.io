@@ -1,0 +1,181 @@
+/*!
+ * Bootstrap v4.0.0 (https://getbootstrap.com)
+ * Copyright 2011-2018 The Bootstrap Authors
+ * Copyright 2011-2018 Twitter, Inc.
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ */
+
+ @import url('https://fonts.googleapis.com/css?family=Chewy&display=swap');
+ @import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+ 
+ * {
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+ }
+   
+ html,
+ body {
+       height: 100%;
+       font-family: Montserrat;
+       background-color: #cfd9ff;
+ }
+ 
+ h1 {
+     font-family: 'Chewy';
+     font-size: 32px;
+     margin: 25px 10px 25px 10px;
+     border-bottom: solid 3px #ff9ab2;
+     border-bottom-right-radius: 30px;
+ }
+ 
+ h2 {
+     font-weight: bold;
+     font-size: 20px;
+     margin: 10px 0px 10px 0px;
+     padding-bottom: 5px;
+     border-bottom: solid 3px #ff9ab2;
+ }
+ 
+ body {
+     display: grid;
+     grid-template-areas:
+       "header"
+       "main"
+       "footer";
+     grid-template-columns: 1fr;
+     grid-template-rows: 100px 1fr 50px;
+ }
+ 
+ body > header {
+     grid-area: header;
+     padding-left: 30px;
+     background-color: #ffcdd9;
+ }
+ 
+ body > main {
+     grid-area: main;
+     padding: 0px 30px 20px 30px;
+     background-color: #fff3cd;
+ }
+ 
+ body > footer {
+     grid-area: footer;
+     display: flex;
+     flex-direction: row-reverse;
+     background-color: #cfd9ff;
+ }
+ 
+ footer > div {
+     color: white;
+     margin: 10px;
+     align-self: center;
+ }
+ 
+ .menu {
+     display: flex;
+     justify-content: space-around;
+     align-items: center;
+ }
+ 
+ .menu_items {
+     background-color: #ffcdd9;
+     width: 350px;
+     text-align: center;
+     padding: 15px;
+ }
+ 
+ .platos {
+     display: flex;
+     justify-content: space-around;
+     text-align: center;
+ }
+ 
+ .ingredientes {
+     display: grid;
+     justify-content: center;
+     text-align: center;
+     grid-template-columns: auto auto auto auto;
+     grid-column-gap: 50px;
+     grid-row-gap: 20px;
+     padding: 10px;
+ }
+ 
+ .boton {
+     width: 120px;
+     height: 45px;
+     margin: 10px 2px;
+     padding: 15px 10px;
+     font-weight: bold;
+     background-color: #ff9ab2;
+     color: white;
+     text-decoration: none;
+     display: inline-block;
+ }
+ 
+ .boton:hover {
+     background-color: #ff4e78;
+     box-shadow: 0px 5px 5px 0px #ff4e78;
+     transition: 0.4s
+ }
+ 
+ p {
+     margin: 5px 0px 5px 0px;
+ }
+ 
+ dt {
+     font-weight: bold;
+     margin: 5px 0px 5px 0px;
+ }
+ 
+ dd {
+     margin: 5px 0px 5px 20px;
+ }
+ 
+ dd::before {
+     content: ' \25CF';
+     margin-right: 5px;
+ }
+ 
+ hr {
+     border: 3px solid #ff9ab2;
+     margin-bottom: 10px;
+ }
+ 
+ .comida {
+     display: flex;
+     justify-content: space-evenly;
+     align-items: top;
+     text-align: left;
+     grid-template-columns: 350px 500px;
+     grid-row-gap: 20px;
+     padding: 10px;
+ }
+ 
+ .comida_ingredientes {
+     background-color: #ffcdd9;
+     text-align: left;
+     padding: 15px;
+ }
+ 
+ .tags {
+     display: flex;
+     justify-content: center;
+     align-items: center;
+ }
+ 
+ /*
+ .menu {
+     display: grid;
+     justify-content: center;
+     align-items: center;
+     grid-template-columns: 300px 400px;
+     grid-template-rows: auto;
+     grid-gap: 5px;
+ }
+ .menu_datos {
+     background-color: #ffcdd9;
+     padding: 20px;
+ }
+ */
+/*# sourceMappingURL=bootstrap.css.map */
