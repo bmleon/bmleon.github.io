@@ -40,7 +40,7 @@ h2 {
 main {
   padding: 5px;
   background: rgb(187, 206, 200);
-  color: rgb(12, 22, 19);
+  color: rgb(32, 110, 87);
   border-radius: 8px;
 }
 .tituloSeccion {
@@ -60,13 +60,13 @@ main {
   border-radius: 8px; 
 }
 section {
-  color: rgb(9, 14, 12);
+  color: rgb(36, 104, 77);
   border-radius: 8px;
 }
 article {
   padding: 5px;
   background: rgb(166, 190, 182);
-  color: rgb(21, 146, 104);
+  color: rgb(5, 8, 7);
   font-size: 15px;
   width: 98%;
   border-radius: 8px;
