@@ -2,13 +2,14 @@
 <rss vesion="2.0">
     <chanel>
         <title>Cordoba Patrimonio</title>
-        <link>https://github.com/bmleon/bmleon.github.io/blob/gh-pages/cp/index.html</link>
-        <description></description>
+        <link>https://bmleon.github.io/</link>
+        <description>Actividad cultural</description>
         <item>
             <title>Cordoba Patrimonio</title>
-            <link>https://github.com/bmleon/bmleon.github.io/blob/gh-pages/cp/index.html</link>
-            <description></description>
+            <link>https://bmleon.github.io/</link>
+            <description>Actividad para aprender sobre cordoba</description>
             <pubDate></pubDate>
         </item>
+        
     </chanel>
 </rss>
