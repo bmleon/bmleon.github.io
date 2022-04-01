@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss vesion="2.0">
     <chanel>
-        <title>Cordoba Patrimonio</title>
-        <link>https://github.com/bmleon/bmleon.github.io/blob/gh-pages/cp/index.html</link>
+        <title>Belén María León Fernández</title>
+        <link>https://bmleon.github.io/</link>
         <description>Actividad cultural</description>
         <item>
-            <title>La Mezquita</title>
-            <link>https://github.com/bmleon/bmleon.github.io/blob/gh-pages/cp/mezquita.html</link>
+            <title>Córdoba Patrimonio</title>
+            <link>https://bmleon.github.io/lm/cp/index.html</link>
             <description>Actividad para aprender sobre cordoba</description>
-            <pubDate></pubDate>
         </item>
-        
+        <item>
+            <title>La Mezquita</title>
+            <link>https://bmleon.github.io/lm/cp/mezquita.html</link>
+            <description>Saber de sitios de Córdoba</description>
+        </item>
     </chanel>
 </rss>
